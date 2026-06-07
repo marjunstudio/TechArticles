@@ -1,7 +1,7 @@
 {
   "name": "techarticles",
   "version": "1.0.0",
-  "description": "",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/marjunstudio/TechArticles#readme",
   "dependencies": {
-    "zenn-cli": "^0.4.7"
+    "zenn-cli": "^0.4.8"
   }
 }
